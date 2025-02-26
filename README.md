@@ -1,2 +1,2 @@
-# No Thanks
+## No Thanks
 No Thanks is a card game played with cards numbered 3-35. Each player is given a set number of stones to start the game and a card is turned face up. On a players turn they may either place one of their stones on the up-card to pass the option to the next player or take the card. If they take the card a new card is drawn from the deck and that same player takes their turn again. At the end of the game players total up their score by adding all of their cards together and subtracting how many stones they have left. If they have a straight any length, they only score the lowest card in that straight. The player with the lowest score is the winner.
